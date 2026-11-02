@@ -2149,9 +2149,9 @@ else:
     # ====================================================================
     import os
     import sys
-    BOT_TOKEN         = "8679232069:AAGqxT86g_3EdYo-n6MCF1ZdEhWUA6ObVn8"  
-    OWNER_ID          = 2119464081              
-    SUPPORT_USERNAME  = "@fxrsale"
+    BOT_TOKEN         = "8653377116:AAGOlJ5FP_3ki_kWAJJG1_t0OoeoYwk0kKY"  
+    OWNER_ID          = 8684812026            
+    SUPPORT_USERNAME  = "@s1dfr"
     MAX_USERBOTS      = int(os.environ.get("MAX_USERBOTS", "50") or "50")
     TELEGRAM_API_ID   = 38843772                   
     TELEGRAM_API_HASH = "875fbb273801c8025d05e98173fca536"  
