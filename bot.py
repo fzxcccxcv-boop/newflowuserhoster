@@ -23,8 +23,6 @@ import os as _os
 _IS_USERBOT = "--userbot" in _sys.argv or _os.environ.get("USERBOT_MODE") == "1"
 
 if _IS_USERBOT:
-    # BY SIDxBOT — ADVANCED V3 (500+ COMMANDS)
-    # Modified for SID Premium Hoster — reads credentials from ENV
 
     # ────────────────────────────────────────────────
     #                 STANDARD LIB
